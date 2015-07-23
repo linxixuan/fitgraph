@@ -1,0 +1,33 @@
+{
+  "name": "fitgraph",
+  "version": "0.0.1",
+  "description": "fit graph",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/linxixuan/fitgraph.git"
+  },
+  "keywords": [
+    "koa",
+    "react",
+    "react-router",
+    "spa"
+  ],
+  "author": "linxixuan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/linxixuan/fitgraph/issues"
+  },
+  "homepage": "https://github.com/linxixuan/fitgraph#readme",
+  "dependencies": {
+    "gulp": "^3.9.0",
+    "gulp-nodemon": "^2.0.3",
+    "gulp-util": "^3.0.6",
+    "jsx-loader": "^0.13.2",
+    "koa": "^0.21.0",
+    "koa-static": "^1.4.9",
+    "react": "^0.13.3",
+    "run-sequence": "^1.1.2",
+    "webpack": "^1.10.3"
+  }
+}
